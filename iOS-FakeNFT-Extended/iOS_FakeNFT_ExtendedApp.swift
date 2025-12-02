@@ -5,7 +5,6 @@ struct iOS_FakeNFT_ExtendedApp: App {
     var body: some Scene {
         WindowGroup {
             TabBarView()
-                .environment(ServicesAssembly(networkClient: DefaultNetworkClient(), nftStorage: NftStorageImpl()))
         }
     }
 }
