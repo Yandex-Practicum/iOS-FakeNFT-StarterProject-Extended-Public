@@ -56,6 +56,7 @@
 		840CB7BF2EDDBE5900B40DD1 /* Catalog */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Catalog; sourceTree = "<group>"; };
 		840CB7C02EDDBE6000B40DD1 /* Cart */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Cart; sourceTree = "<group>"; };
 		840CB7C12EDDBE6600B40DD1 /* Statistics */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Statistics; sourceTree = "<group>"; };
+		840CB7E92EE0329E00B40DD1 /* Common */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Common; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +109,7 @@
 		ABC5E16A2C31F5AF002B4068 /* iOS-FakeNFT-Extended */ = {
 			isa = PBXGroup;
 			children = (
+				840CB7E92EE0329E00B40DD1 /* Common */,
 				840CB7B82EDDA73300B40DD1 /* Docs */,
 				ABC5E16B2C31F5AF002B4068 /* iOS_FakeNFT_ExtendedApp.swift */,
 				ABC5E1E92C32084F002B4068 /* Localizable.strings */,
@@ -184,6 +186,7 @@
 				840CB7BF2EDDBE5900B40DD1 /* Catalog */,
 				840CB7C02EDDBE6000B40DD1 /* Cart */,
 				840CB7C12EDDBE6600B40DD1 /* Statistics */,
+				840CB7E92EE0329E00B40DD1 /* Common */,
 			);
 			name = "iOS-FakeNFT-Extended";
 			packageProductDependencies = (
