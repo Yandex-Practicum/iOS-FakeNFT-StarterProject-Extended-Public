@@ -74,7 +74,6 @@
 		ABC5E1E42C32055B002B4068 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC5E1E32C32055B002B4068 /* ErrorView.swift */; };
 		ABC5E1E62C320585002B4068 /* LinePageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC5E1E52C320585002B4068 /* LinePageControl.swift */; };
 		ABC5E1E82C320610002B4068 /* NftDetailBridgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC5E1E72C320610002B4068 /* NftDetailBridgeView.swift */; };
-		ABC5E1EB2C32084F002B4068 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = ABC5E1E92C32084F002B4068 /* Localizable.strings */; };
 		C1676CD1307B083A0056BCC0 /* MyNFTViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1676CD0307B083A0056BCC0 /* MyNFTViewModel.swift */; };
 		C16BD342307C29ED00E6E8BD /* FavoriteNFTViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16BD341307C29ED00E6E8BD /* FavoriteNFTViewModel.swift */; };
 		C16BD344307C355700E6E8BD /* ProfileUpdateRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16BD343307C355700E6E8BD /* ProfileUpdateRequest.swift */; };
@@ -108,7 +107,7 @@
 		DE303BED307281D000C48FC0 /* UserCardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE303BEC307281CE00C48FC0 /* UserCardViewModel.swift */; };
 		DE303BEF307281E200C48FC0 /* UserCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE303BEE307281E100C48FC0 /* UserCardView.swift */; };
 		DE303BF33072825C00C48FC0 /* UserCardModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE303BF23072825B00C48FC0 /* UserCardModule.swift */; };
-		DE818517307AE68F00709D37 /* Урсан Андрей.md in Resources */ = {isa = PBXBuildFile; fileRef = DE818516307AE68F00709D37 /* Урсан Андрей.md */; };
+		DE818517307AE68F00709D37 /* Epic_Statistics.md in Resources */ = {isa = PBXBuildFile; fileRef = DE818516307AE68F00709D37 /* Epic_Statistics.md */; };
 		DE8C064830758BBD00B21D53 /* UserCollectionItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8C064730758BBA00B21D53 /* UserCollectionItem.swift */; };
 		DE8C064A30758BCF00B21D53 /* UserCollectionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8C064930758BCE00B21D53 /* UserCollectionViewModel.swift */; };
 		DE8C064C30758BE600B21D53 /* UserCollectionNFTCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8C064B30758BE400B21D53 /* UserCollectionNFTCell.swift */; };
@@ -203,7 +202,6 @@
 		ABC5E1E32C32055B002B4068 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 		ABC5E1E52C320585002B4068 /* LinePageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinePageControl.swift; sourceTree = "<group>"; };
 		ABC5E1E72C320610002B4068 /* NftDetailBridgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NftDetailBridgeView.swift; sourceTree = "<group>"; };
-		ABC5E1EA2C32084F002B4068 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C1676CD0307B083A0056BCC0 /* MyNFTViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNFTViewModel.swift; sourceTree = "<group>"; };
 		C16BD341307C29ED00E6E8BD /* FavoriteNFTViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteNFTViewModel.swift; sourceTree = "<group>"; };
 		C16BD343307C355700E6E8BD /* ProfileUpdateRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileUpdateRequest.swift; sourceTree = "<group>"; };
@@ -239,7 +237,7 @@
 		DE303BEC307281CE00C48FC0 /* UserCardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCardViewModel.swift; sourceTree = "<group>"; };
 		DE303BEE307281E100C48FC0 /* UserCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCardView.swift; sourceTree = "<group>"; };
 		DE303BF23072825B00C48FC0 /* UserCardModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCardModule.swift; sourceTree = "<group>"; };
-		DE818516307AE68F00709D37 /* Урсан Андрей.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Урсан Андрей.md"; sourceTree = "<group>"; };
+		DE818516307AE68F00709D37 /* Epic_Statistics.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Epic_Statistics.md; sourceTree = "<group>"; };
 		DE8C064730758BBA00B21D53 /* UserCollectionItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCollectionItem.swift; sourceTree = "<group>"; };
 		DE8C064930758BCE00B21D53 /* UserCollectionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCollectionViewModel.swift; sourceTree = "<group>"; };
 		DE8C064B30758BE400B21D53 /* UserCollectionNFTCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCollectionNFTCell.swift; sourceTree = "<group>"; };
@@ -363,7 +361,6 @@
 			isa = PBXGroup;
 			children = (
 				32B7AC813065C2E70077B9E3 /* Info.plist */,
-				DE818514307AE47300709D37 /* Decompilation */,
 				ABC5E16B2C31F5AF002B4068 /* iOS_FakeNFT_ExtendedApp.swift */,
 				ABC5E1952C31F64A002B4068 /* DesignSystem */,
 				ABC5E19A2C31F687002B4068 /* Foundation */,
@@ -550,6 +547,7 @@
 		C1A36001305EC732000670FA /* docs */ = {
 			isa = PBXGroup;
 			children = (
+				DE818516307AE68F00709D37 /* Epic_Statistics.md */,
 				C1A36002305EC772000670FA /* Epic_Profile.md */,
 			);
 			path = docs;
@@ -585,8 +583,8 @@
 				C16BD341307C29ED00E6E8BD /* FavoriteNFTViewModel.swift */,
 			);
 			path = ViewModels;
-            sourceTree = "<group>";
-        };
+			sourceTree = "<group>";
+		};
 		DE17E5A93067DDCA0035047E /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
@@ -652,14 +650,6 @@
 				DE17E5BF3067E3570035047E /* StatisticsUsersMapperProtocol.swift */,
 			);
 			path = Statistics;
-			sourceTree = "<group>";
-		};
-		DE818514307AE47300709D37 /* Decompilation */ = {
-			isa = PBXGroup;
-			children = (
-				DE818516307AE68F00709D37 /* Урсан Андрей.md */,
-			);
-			path = Decompilation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -775,7 +765,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				32B7AC803065BFAD0077B9E3 /* Config.xcconfig in Resources */,
-				DE818517307AE68F00709D37 /* Урсан Андрей.md in Resources */,
+				DE818517307AE68F00709D37 /* Epic_Statistics.md in Resources */,
 				ABC5E1732C31F5AF002B4068 /* Preview Assets.xcassets in Resources */,
 				32721C05306535BB0009896D /* Localizable.xcstrings in Resources */,
 				ABC5E1702C31F5AF002B4068 /* Assets.xcassets in Resources */,
